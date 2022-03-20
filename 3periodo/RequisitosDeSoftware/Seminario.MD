@@ -1,3 +1,5 @@
+# Trabalho Seminário - Requisitos de Software
+
 ## SLIDE 01
 ### Coleta colaborativa de requisitos
 
@@ -38,20 +40,18 @@ bros da equipe de software e de outros departamentos interessados são convidado
 A solicitação de produto é distribuída a todos os participantes antes da data da reunião.
 
 ## SLIDE 04
-### Exemplo de solicitação de produto - CasaSegura
+### Coleta dos dados
 
-> Nossa pesquisa indica que o mercado para sistemas de administração domiciliar está crescendo com
-taxas de 40% ao ano. A primeira função do CasaSegura que lançaríamos no mercado seria a função de
-segurança domiciliar. A maioria das pessoas está familiarizada com “sistemas de alarme”, de modo que
-seria algo fácil de vender.
-> A função de segurança domiciliar protegeria e/ou reconheceria uma série de “situações” indesejáveis
-como acesso ilegal, incêndios, inundações, níveis de monóxido de carbono e outras. Ela usará nossos
-sensores sem fio para detectar cada uma dessas situações. Poderá ser programada pelo proprietário
-da casa e, automaticamente, ligará para uma agência de monitoramento quando for detectada uma
-situação destas.
+Ao rever a solicitação de produto nos dias que antecedem a reunião, é pedido a cada 
+participante uma lista de objetos que fazem parte do ambiente que cerca o sistema, outros 
+que devem ser produzidos pelo sistema e aqueles usados pelo sistema para desempenhar suas funções.
+
+Além disso, pede-se a cada participante uma outra lista de serviços que manipulam ou interagem 
+com os objetos. Por fim, também são desenvolvidas listas de restrições (por exemplo, custo, 
+dimensões, regras comerciais) e de critérios de desempenho (por exemplo, velocidade, precisão).
 
 ## SLIDE 05
-### Exemplo de solicitação de produto - CasaSegura
+### Organização dos dados
 
 ## SLIDE 06
 ### Disponibilização da função de qualidade
