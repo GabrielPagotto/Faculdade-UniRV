@@ -79,6 +79,8 @@ o desenvolvimento de miniespecificações irá revelar novos objetos, serviços,
 Durante todas as discussões, a equipe pode levantar um assunto que não pode ser resolvido durante a reunião. É mantida uma lista de questões pendentes para que 
 essas ideias sejam trabalhadas posteriormente.
 
+(resources/reqsoft3image_1.png)
+
 ## 5.3.2 Disponibilização da função de qualidade
 A disponibilização da função de qualidade (quality function deployment, QFD) é uma técnica de gestão da qualidade que traduz as necessidades do 
 cliente para requisitos técnicos do software. O QFD “concentra-se em maximizar a satisfação do cliente por meio do processo de engenharia de software”. 
